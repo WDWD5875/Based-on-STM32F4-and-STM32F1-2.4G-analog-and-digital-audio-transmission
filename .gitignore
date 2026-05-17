@@ -1,0 +1,35 @@
+# Keil build output
+Objects/
+Listings/
+
+# Keil user/config generated files
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.bak
+
+# Build intermediate files
+*.o
+*.d
+*.dep
+*.crf
+*.lst
+*.lnp
+*.map
+*.htm
+*.build_log.htm
+
+# Output binary files
+*.axf
+*.hex
+*.bin
+*.elf
+
+# Debug / temporary
+*.ini
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
