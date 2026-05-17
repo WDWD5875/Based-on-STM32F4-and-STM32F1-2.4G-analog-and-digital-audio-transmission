@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\USARdebug.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\USARdebug.dir/objects.a @CMakeFiles\USARdebug.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\USARdebug.dir/objects.a -Wl,--no-whole-archive -o USARdebug.exe -Wl,--out-implib,libUSARdebug.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\USARdebug.dir\linkLibs.rsp

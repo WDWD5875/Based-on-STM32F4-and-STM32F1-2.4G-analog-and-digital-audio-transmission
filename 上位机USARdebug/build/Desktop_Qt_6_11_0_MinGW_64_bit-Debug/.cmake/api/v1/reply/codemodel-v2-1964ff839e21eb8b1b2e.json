@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bb31578a9d8e3a0fbb20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "USARdebug",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "USARdebug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USARdebug-Debug-dd4934505ae6011d329d.json",
+					"name" : "USARdebug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USARdebug_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USARdebug_autogen-Debug-e8d5553994eb4d6a5ca2.json",
+					"name" : "USARdebug_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USARdebug_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USARdebug_autogen_timestamp_deps-Debug-d85e6cd04bc8dcdcf49f.json",
+					"name" : "USARdebug_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTproject/USARTdebug/USARdebug/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "D:/QTproject/USARTdebug/USARdebug"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
